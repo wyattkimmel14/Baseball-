@@ -1,0 +1,11 @@
+body {
+  background: black;
+  padding: 0 24px;
+  color: white; /* Change my color to yellow */
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a:hover{color: yellow;}
